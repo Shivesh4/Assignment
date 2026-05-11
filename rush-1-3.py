@@ -20,12 +20,7 @@ def rush(x, y):
                 current_line += " "
         print(current_line)
 
-if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python3 rush-1-3.py <x> <y>")
-    else:
-        x = int(sys.argv[1])
-        y = int(sys.argv[2])
-        rush(x, y)
+# x = int(sys.argv[1])
+# y = int(sys.argv[2])
+# rush(x, y) 
 
-        
