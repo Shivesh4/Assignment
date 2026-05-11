@@ -20,9 +20,9 @@ def rush(x, y):
                 current_line += " "
         print(current_line)
 
-rush(5,3)
-rush(5,1)
-rush(1,1)
-rush(1,5)
-rush(0,5) # Invalid case
-rush(5,0) # Invalid case
+# rush(5,3)
+# rush(5,1)
+# rush(1,1)
+# rush(1,5)
+# rush(0,5) # Invalid case
+# rush(5,0) # Invalid case
